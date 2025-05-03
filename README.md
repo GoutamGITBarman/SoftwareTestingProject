@@ -8,7 +8,7 @@ Welcome to the Manual Testing Project. This project is focused on thorough manua
 - [Project Overview](#project-overview)
 - [Test Plan](#test-plan)
 - [Test Cases](#test-cases)
-- [Defect Reports] (#Defect-Reports)
+- [Defect Reports](#defect-reports)
 - [How to Use](#how-to-use)
 - [Technologies & Tools](#technologies--tools)
 - [Contributing](#contributing)
