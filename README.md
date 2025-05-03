@@ -8,12 +8,12 @@ Welcome to the Manual Testing Project. This project is focused on thorough manua
 - [Project Overview](#project-overview)
 - [Test Plan](#test-plan)
 - [Test Cases](#test-cases)
+- [Defect Reports] (Optional)
 - [How to Use](#how-to-use)
 - [Technologies & Tools](#technologies--tools)
 - [Contributing](#contributing)
-- [Contact](#contact)
 
-📋 Project Overview
+## 📋 Project Overview
 
 The goal of this project is to define, document, and execute a set of manual tests to validate the core functionalities and non-functional requirements of the application.  
 This repository serves as a resource for:
@@ -68,7 +68,8 @@ If defects are found during testing, they are logged in the **Defect Reports** s
 - Steps to reproduce  
 - Severity and priority  
 - Status and resolution
-🚀 How to Use
+  
+## 🚀 How to Use
 
 1. Clone the repository:
    ```bash
@@ -87,7 +88,7 @@ Documentation: MS Word, Excel (or Google Docs/Sheets)
 
 Bug Tracking: JIRA, Bugzilla (optional)
 
-🤝 Contributing
+## 🤝 Contributing
 Contributions, suggestions, and improvements are welcome!
 
 Fork the repository
