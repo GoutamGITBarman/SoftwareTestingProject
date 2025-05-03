@@ -3,7 +3,7 @@ Welcome to the Manual Testing Project. This project is focused on thorough manua
 
 🛠️ Manual Testing Project
 
-📌 Table of Contents
+## 📌 Table of Contents
 
 - [Project Overview](#project-overview)
 - [Test Plan](#test-plan)
@@ -77,18 +77,18 @@ If defects are found during testing, they are logged in the **Defect Reports** s
 
    Navigate through the Test Plan and Test Cases folders.
 
-2.Navigate through the Test Plan and Test Cases folders
-
-3. Execute the relevant test cases as per the module or feature under test.
-
-4. Document results and report any defects using your team’s bug tracking tool.
+ 2. Navigate through the Test Plan and Test Cases folders
+ 3. Execute the relevant test cases as per the module or feature under test.
+ 4. Document results and report any defects using your team’s bug tracking tool.
    
-🛠️ Technologies & Tools
+## 🛠️ Technologies & Tools
+
 Documentation: MS Word, Excel (or Google Docs/Sheets)
 
 Bug Tracking: JIRA, Bugzilla (optional)
 
 ## 🤝 Contributing
+
 Contributions, suggestions, and improvements are welcome!
 
 Fork the repository
